@@ -208,10 +208,9 @@ const HomePage = ({ data }) => {
           >
             {frontmatter.tagline}
           </p>
-          <div
-            className="description"
-            dangerouslySetInnerHTML={{ __html: html }}
-          />
+          <div className="description">
+            <span>{frontmatter.sidenote}</span>
+          </div>
           <Link
             to={frontmatter.cta.ctaLink}
             className="button"
@@ -245,6 +244,7 @@ const HomePage = ({ data }) => {
           )}
         </div>
       </div>
+      <div dangerouslySetInnerHTML={{ __html: html }}></div>
       <BlogListHome data={posts} />
     </Layout>
   )

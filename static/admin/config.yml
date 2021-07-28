@@ -78,7 +78,6 @@ collections:
           - { label: "Title", name: "title", widget: "string" }
           - { label: "Tagline", name: "tagline", widget: "string" }
           - { label: "Featured Image", name: "featuredImage", widget: "image" }
-          - { label: "Body", name: "body", widget: "markdown" }
           - label: "CTA"
             name: "cta"
             widget: "object"
@@ -89,6 +88,7 @@ collections:
               - name: "ctaLink"
                 label: "CTA Link"
                 widget: "string"
+          - { label: "Body", name: "body", widget: "markdown" }
       - label: "About"
         name: "about"
         file: "src/content/pages/about.md"
@@ -100,6 +100,19 @@ collections:
               default: "about-page",
             }
           - { label: "Slug", name: "slug", widget: "hidden", default: "/about" }
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Body", name: "body", widget: "markdown" }
+      - label: "Aanbod"
+        name: "aanbod"
+        file: "src/content/pages/aanbod.md"
+        fields:
+          - {
+            label: "Template",
+            name: "template",
+            widget: "hidden",
+            default: "aanbod-page",
+          }
+          - { label: "Slug", name: "slug", widget: "hidden", default: "/aanbod" }
           - { label: "Title", name: "title", widget: "string" }
           - { label: "Body", name: "body", widget: "markdown" }
       - label: "Contact"

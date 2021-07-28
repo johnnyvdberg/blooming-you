@@ -4,8 +4,8 @@ import { lightness } from "@theme-ui/color"
 const theme = {
   colors: {
     ...defaultColors,
-    text: "#000",
-    background: "#fff",
+    text: "#98E0FF",
+    background: "#FFFDFC",
     primary: "#5C2941",
     accent: "#fff",
     muted: "rgba(0, 0, 0, 0.7)",
@@ -16,7 +16,7 @@ const theme = {
     inputBackground: "#fff",
     socialIcons: lightness("siteColor", 0.4),
     socialIconsHover: lightness("siteColor", 0.3),
-    buttonColor: lightness("siteColor", 0.9),
+    buttonColor: lightness("siteColor", 0.8),
     buttonHoverBg: lightness("siteColor", 0.4),
     buttonHoverColor: lightness("siteColor", 0.8),
     modes: {
