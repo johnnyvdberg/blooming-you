@@ -1,12 +1,11 @@
 ---
 template: index-page
 slug: /
-title: Wyatt Morriss
-tagline: Graphic Designer
+title: Lore
+tagline: Counselor
 featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
 cta:
-  ctaText: Know more
+  ctaText: Plan hier je gratis bloesemgesprek in
   ctaLink: /about
 ---
-
-He is a award winning gaming graphic designer, based in sunny side of California. Working as Principal designer at Bethesda
+Als hulpverlener wil ik jou helpen je innerlijke criticus een halt toe te roepen en je ondersteunen in het leren zachter te zijn voor jezelf. Om zo weer helemaal in jezelf te kunnen geloven.
