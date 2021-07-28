@@ -102,9 +102,9 @@ collections:
           - { label: "Slug", name: "slug", widget: "hidden", default: "/about" }
           - { label: "Title", name: "title", widget: "string" }
           - { label: "Body", name: "body", widget: "markdown" }
-      - label: "Aanbod"
-        name: "aanbod"
-        file: "src/content/pages/aanbod.md"
+      - label: "Traject"
+        name: "traject"
+        file: "src/content/pages/traject.md"
         fields:
           - {
             label: "Template",
@@ -112,7 +112,20 @@ collections:
             widget: "hidden",
             default: "aanbod-page",
           }
-          - { label: "Slug", name: "slug", widget: "hidden", default: "/aanbod" }
+          - { label: "Slug", name: "slug", widget: "hidden", default: "/traject" }
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Body", name: "body", widget: "markdown" }
+      - label: "Groei pakket"
+        name: "groeipakket"
+        file: "src/content/pages/traject.md"
+        fields:
+          - {
+            label: "Template",
+            name: "template",
+            widget: "hidden",
+            default: "aanbod-page",
+          }
+          - { label: "Slug", name: "slug", widget: "hidden", default: "/groeipakket" }
           - { label: "Title", name: "title", widget: "string" }
           - { label: "Body", name: "body", widget: "markdown" }
       - label: "Contact"

@@ -5,7 +5,7 @@ import Layout from "../components/layout"
 import Seo from "../components/seo"
 
 export const pageQuery = graphql`
-  query AanbodQuery($id: String!) {
+  query GroeipakketQuery($id: String!) {
     markdownRemark(id: { eq: $id }) {
       id
       html
@@ -16,7 +16,7 @@ export const pageQuery = graphql`
     }
   }
 `
-const AanbodPage = ({ data }) => {
+const GroeipakketPage = ({ data }) => {
   const { markdownRemark } = data // data.markdownRemark holds your post data
   const { frontmatter, html, excerpt } = markdownRemark
 
@@ -31,4 +31,4 @@ const AanbodPage = ({ data }) => {
   )
 }
 
-export default AanbodPage
+export default GroeipakketPage
