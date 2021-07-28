@@ -3,7 +3,7 @@ template: index-page
 slug: /
 title: Lore
 tagline: Counselor
-featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
+featuredImage: /assets/whatsapp-image-2021-07-22-at-21.49.33.jpeg
 cta:
   ctaText: Plan hier je gratis bloesemgesprek in
   ctaLink: /about
