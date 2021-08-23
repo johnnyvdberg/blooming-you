@@ -1,5 +1,5 @@
 /** @jsx jsx */
-import { jsx } from "theme-ui"
+import { jsx } from 'theme-ui'
 import { graphql } from "gatsby"
 import { RiSendPlane2Line } from "react-icons/ri"
 
@@ -38,6 +38,9 @@ const Contact = ({ data }) => {
         <h1>{frontmatter.title}</h1>
         <div
           className="description"
+          sx={{
+            variant: "variants.content"
+          }}
           dangerouslySetInnerHTML={{ __html: html }}
         />
         <form

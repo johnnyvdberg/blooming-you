@@ -195,7 +195,7 @@ const HomePage = ({ data }) => {
     )
   })
   return (
-    <Layout>
+    <Layout className="page">
       <Seo />
       <div className="home-banner grids col-1 sm-2">
         <div>
@@ -244,7 +244,11 @@ const HomePage = ({ data }) => {
           )}
         </div>
       </div>
-      <div dangerouslySetInnerHTML={{ __html: html }}></div>
+      <article
+        sx={{
+          variant: "variants.content"
+        }}
+        dangerouslySetInnerHTML={{ __html: html }}/>
       <BlogListHome data={posts} />
     </Layout>
   )

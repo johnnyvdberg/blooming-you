@@ -110,6 +110,9 @@ const Post = ({ data, pageContext }) => {
 
         <div
           className="blog-post-content"
+          sx={{
+            variant: "variants.content"
+          }}
           dangerouslySetInnerHTML={{ __html: html }}
         />
       </article>

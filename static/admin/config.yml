@@ -115,9 +115,22 @@ collections:
           - { label: "Slug", name: "slug", widget: "hidden", default: "/traject" }
           - { label: "Title", name: "title", widget: "string" }
           - { label: "Body", name: "body", widget: "markdown" }
+      - label: "Afspraak"
+        name: "afspraak"
+        file: "src/content/pages/afspraak.md"
+        fields:
+          - {
+            label: "Template",
+            name: "template",
+            widget: "hidden",
+            default: "afspraak-page",
+          }
+          - { label: "Slug", name: "slug", widget: "hidden", default: "/afspraak" }
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Body", name: "body", widget: "markdown" }
       - label: "Groei pakket"
         name: "groeipakket"
-        file: "src/content/pages/traject.md"
+        file: "src/content/pages/groeipakket.md"
         fields:
           - {
             label: "Template",

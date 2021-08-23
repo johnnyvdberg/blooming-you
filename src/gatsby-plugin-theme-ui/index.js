@@ -1,13 +1,14 @@
 import defaultColors from "../util/default-colors.json"
 import darkColors from "../util/dark-theme-colors.json"
 import { lightness } from "@theme-ui/color"
+
 const theme = {
   colors: {
     ...defaultColors,
     text: "rgba(0, 0, 0, 0.7)",
     background: "#FFFDFC",
-    primary: "#A2D4C8",
-    accent: "#fff",
+    primary: "#ffb6b9",
+    accent: "#bbded6",
     muted: "rgba(0, 0, 0, 0.7)",
     cardBg: "#fff",
     borderColor: "#540229",
@@ -16,9 +17,8 @@ const theme = {
     inputBackground: "#fff",
     socialIcons: lightness("siteColor", 0.4),
     socialIconsHover: lightness("siteColor", 0.3),
-    buttonColor: lightness("siteColor", 0.8),
-    buttonHoverBg: lightness("siteColor", 0.4),
-    buttonHoverColor: lightness("siteColor", 0.8),
+    buttonHoverBg: lightness("accent", 0.4),
+    buttonHoverColor: lightness("accent", 0.8),
     modes: {
       dark: {
         text: "#f5f5f5",
@@ -36,36 +36,50 @@ const theme = {
         buttonColor: lightness("siteColor", 0.7),
         buttonHoverBg: lightness("siteColor", 0.3),
         buttonHoverColor: lightness("siteColor", 0.9),
-        ...darkColors,
-      },
-    },
+        ...darkColors
+      }
+    }
   },
   links: {
     postLink: {
       color: "muted",
       "&:hover": {
-        color: "text",
-      },
-    },
+        color: "text"
+      }
+    }
   },
   variants: {
+    content: {
+      h1: {
+        color: "accent"
+      },
+      h2: {
+        color: "accent"
+      },
+      h3: {
+        color: "accent"
+      },
+      h4: {
+        color: "accent"
+      }
+    },
     button: {
-      bg: "siteColor",
-      color: "buttonColor",
+      bg: "accent",
+      color: "white",
       "&:hover": {
         bg: "buttonHoverBg",
-        color: "buttonHoverColor",
-      },
+        color: "buttonHoverColor"
+      }
     },
     socialIcons: {
       a: {
         color: "socialIcons",
         ":hover": {
-          color: "socialIconsHover",
-        },
-      },
-    },
-  },
+          color: "socialIconsHover"
+        }
+      }
+    }
+  }
 }
 
 export default theme

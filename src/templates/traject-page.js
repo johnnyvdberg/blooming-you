@@ -1,3 +1,5 @@
+/** @jsx jsx */
+import { jsx } from 'theme-ui'
 import React from "react"
 import { graphql } from "gatsby"
 
@@ -25,7 +27,9 @@ const TrajectPage = ({ data }) => {
       <Seo title={frontmatter.title} description={excerpt} />
       <div className="wrapper">
         <h1>{frontmatter.title}</h1>
-        <article dangerouslySetInnerHTML={{ __html: html }} />
+        <article sx={{
+          variant: "variants.content"
+        }} dangerouslySetInnerHTML={{ __html: html }} />
       </div>
     </Layout>
   )

@@ -8,7 +8,7 @@ tagline: Als hulpverlener wil ik jou helpen je innerlijke criticus een halt toe
 featuredImage: /assets/whatsapp-image-2021-07-22-at-21.49.33.jpeg
 cta:
   ctaText: Plan hier je gratis bloesemgesprek in
-  ctaLink: /contact
+  ctaLink: /afspraak
 ---
 # Herken jij dit?
 
