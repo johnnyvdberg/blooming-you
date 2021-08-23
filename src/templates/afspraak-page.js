@@ -1,20 +1,23 @@
+/** @jsx jsx */
+import { jsx } from "theme-ui"
 import React from "react"
 import { graphql } from "gatsby"
 
 import Layout from "../components/layout"
 import Seo from "../components/seo"
+import { InlineWidget } from "react-calendly"
 
 export const pageQuery = graphql`
-  query AfspraakQuery($id: String!) {
-    markdownRemark(id: { eq: $id }) {
-      id
-      html
-      excerpt(pruneLength: 140)
-      frontmatter {
-        title
-      }
+    query AfspraakQuery($id: String!) {
+        markdownRemark(id: { eq: $id }) {
+            id
+            html
+            excerpt(pruneLength: 140)
+            frontmatter {
+                title
+            }
+        }
     }
-  }
 `
 const AfspraakPage = ({ data }) => {
   const { markdownRemark } = data // data.markdownRemark holds your post data
@@ -30,13 +33,7 @@ const AfspraakPage = ({ data }) => {
             variant: "variants.content"
           }}
           dangerouslySetInnerHTML={{ __html: html }} />
-        <div className="calendly-inline-widget" data-url="https://calendly.com/bloomingyou"
-             style={{
-              minWidth: '320px',
-              height: '630px'
-            }}
-        ></div>
-        <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
+        <InlineWidget styles={{ height: "1000px" }} url="https://calendly.com/bloomingyou" />
       </div>
     </Layout>
   )
