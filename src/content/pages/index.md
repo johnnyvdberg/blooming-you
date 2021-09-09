@@ -1,11 +1,10 @@
 ---
 template: index-page
 slug: /
-title: Lore
-tagline: Als hulpverlener wil ik jou helpen je innerlijke criticus een halt toe
-  te roepen en je ondersteunen in het leren zachter te zijn voor jezelf. Om zo
-  weer helemaal in jezelf te kunnen geloven.
-featuredImage: /assets/whatsapp-image-2021-07-22-at-21.49.33.jpeg
+title: "Lieve jij, "
+tagline: Ben jij klaar om open te bloeien naar de stralende versie van jezelf?
+  Laat mij je helpen op je reis naar meer selflove en zelfzorg!
+featuredImage: /assets/foto-header-website.png
 cta:
   ctaText: Plan hier je gratis bloesemgesprek in
   ctaLink: /afspraak
