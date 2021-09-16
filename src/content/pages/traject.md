@@ -31,6 +31,8 @@ Als tiener was mijn innerlijke criticus ontzettend aanwezig. Ik was perfectionis
 Toen ik startte met mijn bacheloropleiding zat die innerlijke criticus aan het stuur van mijn leven. Ik botst dan ook snel op een muur, met als gevolg dat ik iets minder dan een schooljaar thuis zat en enkel bezig kon zijn met hoe ik die batterijen kon opladen.
 Er werd heel wat geëxperimenteerd in hoe ik liever voor mezelf kon zijn. Toch voelde ik dat ik het niet alleen kon.
 
+![](/assets/foto-selflove-club-website.png)
+
 Ik kijk dankbaar terug naar de therapie die ik hierin volgde. Er werd niet alleen ingezet op mijn faalangst en perfectionisme. Ik mocht mijn krachten ontdekken en voelen dat ook ik mijn plekje mag innemen in de wereld.
 
 En dat laatste hoop ik ook met jou te bereiken wanneer we samen aan de slag gaan want…
@@ -39,18 +41,28 @@ En dat laatste hoop ik ook met jou te bereiken wanneer we samen aan de slag gaan
 
 ## Hoe zou het voor jou zijn als je
 
-* ...weet hoe je voor jezelf kan zorgen op een manier die helemaal bij jou en je levensstijl past?
-* ...tevreden bent met jezelf en liefde voelt voor de versie die je nu bent?
-* ...praat tegen jezelf met zachtheid en empathie? Je weet hoe je die innerlijke criticus het hoofd kan bieden. 
-* ...meer energie ervaart omdat het piekeren plaats heeft gemaakt voor zelfliefde en zelfzorg?
-* ... voelt dat jij er net zozeer mag zijn als anderen. Je bent goed genoeg, want jij bent een vat vol kwaliteiten en talenten, die jij ook nog eens weet in te zetten in je leven.
+* ...weet hoe je voor **jezelf** kan **zorgen** op een manier die helemaal bij jou en **je levensstijl past**?
+
+
+* ...**tevreden** bent **met jezelf** en liefde voelt voor de versie die je nu bent?
+
+
+* ...praat tegen jezelf met **zachtheid en empathie**? Je weet hoe je die innerlijke criticus het hoofd kan bieden. 
+
+
+* ...**meer energie** ervaart omdat het piekeren plaats heeft gemaakt voor zelfliefde en zelfzorg?
+
+
+* ... voelt dat jij er net zozeer mag zijn als anderen. Je bent goed genoeg, want jij bent een vat vol **kwaliteiten en talenten**, die jij ook nog eens weet in te zetten in je leven.
+
+
 * ... de tips en tricks in hoe je beter voor jezelf kan zorgen en milder kan zijn eindelijk zijn effect hebben, omdat ze zijn toegespitst op wie je bent en hoe jouw leven is ingericht?
+
+
 
 Ik kan alvast niet voor je wachten dat jij dit ook mag gaan ervaren en doen! 
 
 ## Wat kan jij verwachten van 'The Selflove Club'?
-
-
 
 In 12 weken leer jij de kracht van zelfliefde kennen zodat je meer positiviteit en innerlijke rust ervaart in je leven. Doorheen het online programma leer jij praktisch hoe jij liever voor jezelf kan zijn én kan zorgen, op een manier die helemaal bij jou en je levensstijl past.
 
