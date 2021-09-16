@@ -1,25 +1,28 @@
 ---
 template: traject-page
 slug: /traject
-title: Groei en Bloei traject
+title: The Selflove Club
 ---
-## Tem je innerlijke criticus en bloei naar zachtheid voor jezelf.
+## Hét online programma waarin je in 12 weken zelfliefde een centrale plaats in je leven leert geven.
 
-Lieve jij,
+Yes girl, you are doing it!
 
-Fijn om te zien dat jij op zoek bent naar manieren om jouw innerlijke criticus een toontje lager te laten zingen.
-Het is die kritische stem dat toch echt wel zachter mag gaan praten tegen je. Diezelfde druktemaker in je hoofd vormt misschien wel een pact met de perfectionist in jou. Of vertelt hij/zij/het/… dat je niet goed genoeg bent voor je partner, je familie, je collega’s,….
-Daarom vind ik het sterk dat je hier al bent! Dit is al een belangrijke eerste stap naar die welverdiende rust in je hoofd.
+Mag ik zeggen dat ik nu al super trots op je ben dat je hier bent?\
+Je geeft jezelf de tijd en ruimte om op zoek te gaan naar meer mildheid voor jezelf. Je erkent dat je echt wel wat meer liefde aan jezelf mag geven. En dat is zo een belangrijke eerste stap! 
+
+
 
 ## Kijk jij even samen met mij mee of jij jezelf hierin herkent?
 
-* Je wil liever zijn voor jezelf, maar je innerlijke kritische stem gaat zonder stoppen door.
-* Je vindt de verwachtingen van anderen en wat zij van jou denken belangrijker dan hoe jij jezelf ziet.
-* Je voelt je regelmatig moe en lusteloos. Je piekert en dat kost je heel wat energie en/of nachtrust
-* Je ervaart faalangst op één of meerdere gebieden in je leven.
-* Je voelt je regelmatig niet goed genoeg.
+* Je wil liever zijn voor jezelf en beseft ook dat dat je deugd zou doen. **Hoe** je daaraan moet **beginnen**, blijft een onbeantwoorde vraag.
+* Je bent er graag voor anderen, maar daardoor durf je **jezelf voorbij lopen**.
+* De manier waarop je tegen jezelf praat is harteloos. Je bent **streng**, **breekt jezelf af** wanneer iets niet helemaal loopt zoals je had verwacht.
+* Je voelt je regelmatig **moe** en lusteloos. Je **piekert** en dat kost je heel wat energie en/of nachtrust. 
+* Je voelt je regelmatig **niet goed genoeg**.
 
-Je beseft dat het anders zou kunnen, dat het beter voor jezelf zorgen en liever zijn voor jezelf je deugd zou doen. Maar hoe je daaraan moet beginnen, blijft een onbeantwoorde vraag.
+  Je vindt het **lastig** om **tevreden** te zijn met jezelf.
+
+
 
 ## Ik kan begrijpen hoe jij je voelt…
 
@@ -32,28 +35,33 @@ Ik kijk dankbaar terug naar de therapie die ik hierin volgde. Er werd niet allee
 
 En dat laatste hoop ik ook met jou te bereiken wanneer we samen aan de slag gaan want…
 
-## Hoe zou het voor jou zijn als
 
-* ...die welverdiende rust in jouw eindelijke terug keert omdat jij de volumeknop van je innerlijke criticus hebt gevonden?
-* ...je ruimte kan maken voor je eigen dromen, doelen en ideeën omdat je nu niet meer zoveel gewicht hangt aan de verwachtingen van anderen?
-* ...je meer energie ervaart omdat het piekeren plaats heeft gemaakt voor zelfliefde en zelfzorg?
-* ...je zou weten hoe je je faalangst het hoofd kan bieden door onder andere helpende gedachten?
-* ... je voelt dat jij er net zozeer mag zijn als anderen. Je bent goed genoeg, want jij bent een vat vol kwaliteiten en talenten, die jij ook nog eens weet in te zetten in je leven.
+
+## Hoe zou het voor jou zijn als je
+
+* ...weet hoe je voor jezelf kan zorgen op een manier die helemaal bij jou en je levensstijl past?
+* ...tevreden bent met jezelf en liefde voelt voor de versie die je nu bent?
+* ...praat tegen jezelf met zachtheid en empathie? Je weet hoe je die innerlijke criticus het hoofd kan bieden. 
+* ...meer energie ervaart omdat het piekeren plaats heeft gemaakt voor zelfliefde en zelfzorg?
+* ... voelt dat jij er net zozeer mag zijn als anderen. Je bent goed genoeg, want jij bent een vat vol kwaliteiten en talenten, die jij ook nog eens weet in te zetten in je leven.
 * ... de tips en tricks in hoe je beter voor jezelf kan zorgen en milder kan zijn eindelijk zijn effect hebben, omdat ze zijn toegespitst op wie je bent en hoe jouw leven is ingericht?
 
-Hoe bevrijdend zou dat zijn he?
+Ik kan alvast niet voor je wachten dat jij dit ook mag gaan ervaren en doen! 
 
-## Wat kan jij verwachten wanneer we samen aan de slag gaan?
+## Wat kan jij verwachten van 'The Selflove Club'?
 
-Wanneer jij graag stappen wil zetten in het temmen van je innerlijke criticus of meer zelfliefde wilt creëren, hebben we eerst een Bloesemgesprek. Deze babbel kan je zien als een kennismaking. Omdat ik het belangrijk vind dat we een fijne en veilige sfeer kunnen creëren, is het belangrijk dat we elkaar eerst wat leren kennen.
-Er is ruimte om het te hebben over de dingen waarop je botst, maar dat hoeft niet.
-Dit gesprek is gratis en vrijblijvend.
 
-Na het bloesemgesprek en wanneer jij besluit om in te stappen, volgt een *intakegesprek*. De bedoeling hiervan is dat we jouw worstelingen in kaart brengen. Daarnaast heb je ook de mogelijkheid om je verwachtingen uit te spreken bij de sessies. Bijvoorbeeld wat je graag anders zou zien of met welke ‘struggle’ je het liefst van start zou gaan. Je kan in dit gesprek ook aangeven hoe vaak je de sessies wil laten doorgaan. Als je bepaalde dingen niet zo goed weet, is dat niet erg. Dan kijken we samen wat het beste voor jou kan werken.
 
-Vervolgens gaan de sessies van start. Hierin gaan we diepgaand in op wat jou blokkeert en de verwachtingen die je hebt. Dit betekent niet dat ik jou bij de hand neem en je zomaar verschillende technieken en tips geef. Wel gaan we samen op pad. We onderzoeken terugkerende patronen in je leven, doorbreken die wanneer dat nodig is en vullen die ruimte in met nieuwe en gezonde manieren om bijvoorbeeld liever voor jezelf te zijn. Samen gaan we op zoek naar manieren hierin die passen bij jou.
+In 12 weken leer jij de kracht van zelfliefde kennen zodat je meer positiviteit en innerlijke rust ervaart in je leven. Doorheen het online programma leer jij praktisch hoe jij liever voor jezelf kan zijn én kan zorgen, op een manier die helemaal bij jou en je levensstijl past.
 
-## Ben jij helemaal klaar om samen aan de slag te gaan?
+Je krijgt toegang tot dé sleutel die je nodig hebt om tot meer zelfliefde te komen.
+
+Die eyeopener heeft mij vrijheid gegeven in mijn zelfzorgroutine én mijn zelfliefde alleen maar verder gestimuleerd! 
+
+En datzelfde wil ik jou zo graag tijdens die 12 weken leren.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__\
+Ben jij helemaal klaar om samen aan de slag te gaan?
 
 Plan dan hier je gratis Bloesemgesprek in (knopje om gesprek in te plannen)
 
