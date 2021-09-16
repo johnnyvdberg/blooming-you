@@ -11,39 +11,26 @@ cta:
 ---
 # Herken jij dit?
 
-Je innerlijke criticus schreeuwt om aandacht. Als een ongeduldige kleuter stampt hij rond in je hoofd. Eigenlijk ben je helemaal klaar met die kritische stem, maar wat je ook probeert, de volumeknop krijg je maar niet zachter gezet.
+Je bent er graag voor anderen. Regelmatig komen mensen naar jou toe wanneer ze behoefte hebben aan een luisterend oor, een taak die je met liefde en empathie op je neemt. Diezelfde mensen omschrijven jou als een warm, liefdevol en zacht persoon. Toch is er één iemand waaraan je die liefde en zorg niet kan geven: jezelf.
 
-## Het kan altijd beter
+## Je bent streng voor jezelf
 
-Je bent perfectionistisch van aard en je kritische stem doet daar graag nog een schepje bovenop. Je vindt het belangrijk om altijd voor het hoogst haalbare te gaan. Je stelt hoge eisen aan jezelf en je innerlijke criticus versterkt die behoefte alleen maar meer.
+Goed voor jezelf zorgen en zachter zijn voor jezelf, vind je lastig. Je bent hard voor jezelf en ervaart stress door alle rollen die je in je leven op je neemt. Je streeft regelmatig naar perfectie en vaak is goed genoeg niet voldoende voor je. Op dagen dat je je niet zo lekker in je vel voelt, durf je jezelf met de grond gelijk maken. Dat zorgt voor nog meer spanning en stress. 
 
-## Je bent niet goed genoeg
+## Grenzen zijn er voor jou om overschreden te worden
 
-Die ongeduldige kleuter in je hoofd maakt je daarnaast ook nog eens wijs dat je niet goed genoeg bent.
-> Anderen kunnen het altijd beter
+Daarnaast ben je er dus graag voor anderen. Als mensen je vragen om af te spreken zeg je ja, ook wanneer dat eigenlijk niet goed uitkomt. Of je gewoon tijd voor jezelf wil.
 
-> Ik ben een prutser
+Nee is een woord dat eigenlijk in een hele lichte kleur terug te vinden is in je woordenboek. Daardoor loop je jezelf voorbij en plof je ‘s avonds uitgeput in bed.  
 
-> Snel genoeg ga ik door de mand vallen, beseffen anderen dat ik eigenlijk helemaal niet zo slim ben
+## Je beseft dat het anders moet.
 
-Die gedachten maken jou ontzettend onzeker, want tegen beter weten in, geloof je die stem ook nog eens.
+Die uitputting maakt je al een tijd duidelijk dat er iets moet gaan veranderen. Je wil meer innerlijke rust ervaren. Je wil genieten van alle kleine en grote gelukjes in het leven. Maar je hebt geen idee waar te beginnen. Je wil anderen vooral niet teleurstellen door eens voor jezelf te kiezen. Het schuldgevoel bekruipt je nu al wat, door er alleen nog maar aan te denken. 
 
-## Grenzen zijn er voor jou om overschreden te worden.
+## Stel je eens voor...
 
-Je bent er graag voor anderen. Als mensen je vragen om af te spreken zeg je ja, ook wanneer dat eigenlijk niet goed uitkomt. Of je er eigenlijk gewoon geen zin in hebt.
-Nee is een woord dat eigenlijk in een hele lichte kleur terug te vinden is in je woordenboek.
+… hoe bevrijdend zou het zijn als jij eindelijk tijd en ruimte aan jezelf geeft?Dat je niet meer hoeft te zoeken naar hoe je nee kan zeggen. Dat je je grenzen kan aangeven zonder een schuldgevoel. Je voelt je rustiger en minder gespannen omdat die strenge stem zichzelf heeft ingeruild voor warmte en empathie.
 
-## Mindfulness en mediteren helpen niet.
 
-Je hebt al wat technieken geprobeerd om die luide stem het zwijgen op te leggen. Op school deed je hier een daar al eens een faalangsttraining. Met goede moed en hoge verwachtingen schreef jij je in, maar er kwam weinig tot totaal geen resultaat uit. Trust me, been there.
-
-## Eigenlijk wil je gewoon rust in je hoofd.
-Wat een bevrijding zou het zijn. De rust die terugkeert in dat drukke hoofd. De spanning die je voelt en die de innerlijke criticus met zich meebrengt glijdt van je af. Omdat je eindelijk die volumeknop hebt gevonden van die luide stem.
-
-## Hoe zou het zijn als jij bent bevrijd van die ongeduldige kleuter die in jouw hoofd rondstampt? 
-
-Niet meer hoeven zoeken naar manieren hoe jij je grenzen kan aangeven. Jij kan voor jezelf kiezen zonder je schuldig te voelen naar de ander toe. De rust in je hoofd zorgt ervoor dat je eindelijk ook weer die liefdevolle stem kan horen. Die zegt dat je goed genoeg bent. Die je zelfvertrouwen geeft. Die je doet geloven in al je krachten en kwaliteiten. Die je kan doen openbloeien tot die mooie bloem die niet kan wachten om te groeien.
-En ondanks dat die kritische stem toch nog eens durft te spelen met die volumeknop, weet jij deze nu eindelijk zitten en te beheren.
 
 Dat klinkt toch als een heerlijk, rustgevend vooruitzicht, niet?
-
