@@ -1,6 +1,6 @@
 ---
-template: traject-page
-slug: /traject
+template: club-page
+slug: /club
 title: The Selflove Club
 ---
 ## Hét online programma waarin je in 12 weken zelfliefde een centrale plaats in je leven leert geven.
@@ -91,5 +91,5 @@ Dit mag jij van mij verwachten wanneer we samen aan de slag gaan:
   En dit alles aan de éénmalige prijs van €297 ipv €387. \
   Je kan daarnaast ook in 4 termijnen betalen, aan €75 per termijn. 
 
-  #### \
-  We gaan van start op 1 november 2021.
+
+We gaan van start op 1 november 2021.

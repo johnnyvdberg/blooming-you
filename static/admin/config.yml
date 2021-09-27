@@ -88,6 +88,23 @@ collections:
               - name: "ctaLink"
                 label: "CTA Link"
                 widget: "string"
+          - label: Further Resources
+            name: furtherResources
+            widget: list
+            collapsed: true
+            hint: "Here you can add blocks, Click on 'Add Further Resources'"
+            fields:
+              - label: "Title"
+                name: "title"
+                widget: "string"
+                required: true
+              - label: "Content"
+                name: "content"
+                widget: "string"
+                required: true
+              - label: "Content Link"
+                name: "contentLink"
+                widget: "string"
           - { label: "Body", name: "body", widget: "markdown" }
       - label: "About"
         name: "about"
@@ -102,9 +119,9 @@ collections:
           - { label: "Slug", name: "slug", widget: "hidden", default: "/about" }
           - { label: "Title", name: "title", widget: "string" }
           - { label: "Body", name: "body", widget: "markdown" }
-      - label: "Traject"
-        name: "traject"
-        file: "src/content/pages/traject.md"
+      - label: "The Selflove Club"
+        name: "club"
+        file: "src/content/pages/club.md"
         fields:
           - {
             label: "Template",
@@ -112,7 +129,7 @@ collections:
             widget: "hidden",
             default: "aanbod-page",
           }
-          - { label: "Slug", name: "slug", widget: "hidden", default: "/traject" }
+          - { label: "Slug", name: "slug", widget: "hidden", default: "/club" }
           - { label: "Title", name: "title", widget: "string" }
           - { label: "Body", name: "body", widget: "markdown" }
       - label: "Afspraak"
@@ -128,9 +145,9 @@ collections:
           - { label: "Slug", name: "slug", widget: "hidden", default: "/afspraak" }
           - { label: "Title", name: "title", widget: "string" }
           - { label: "Body", name: "body", widget: "markdown" }
-      - label: "Groei pakket"
-        name: "groeipakket"
-        file: "src/content/pages/groeipakket.md"
+      - label: "Self-love Boost"
+        name: "boost"
+        file: "src/content/pages/boost.md"
         fields:
           - {
             label: "Template",
@@ -138,7 +155,7 @@ collections:
             widget: "hidden",
             default: "aanbod-page",
           }
-          - { label: "Slug", name: "slug", widget: "hidden", default: "/groeipakket" }
+          - { label: "Slug", name: "slug", widget: "hidden", default: "/boost" }
           - { label: "Title", name: "title", widget: "string" }
           - { label: "Body", name: "body", widget: "markdown" }
       - label: "Contact"

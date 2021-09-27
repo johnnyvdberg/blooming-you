@@ -11,12 +11,12 @@ const MenuItems = [
     title: "Home",
   },
   {
-    path: "/traject",
-    title: "Traject",
+    path: "/club",
+    title: "The Selflove Club",
   },
   {
-    path: "/groeipakket",
-    title: "Groei pakket",
+    path: "/boost",
+    title: "Gratis masterclass: The Selflove Boost",
   },
   {
     path: "/about",

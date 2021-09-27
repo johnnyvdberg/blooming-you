@@ -1,15 +1,15 @@
 ---
-template: groeipakket-page
-slug: /groeipakket
+template: boost-page
+slug: /boost
 title: "The Selflove Boost "
 ---
-\##Hét geheim om van jezelf te leren houden 
+##Hét geheim om van jezelf te leren houden 
 
 Ontdek in de gratis webinar op 18 oktober 2021 mijn sleutel die ervoor zorgde dat ik liever voor mezelf werd. \
 \
 Met dit geheim in handen maak jij een vliegende start in jouw zelfliefdereis. 
 
-\##Herken je dit? 
+##Herken je dit? 
 
 Je merkt bij jezelf een hunkering naar meer zachtheid en empathie voor jezelf 
 
@@ -21,7 +21,7 @@ De Pinterest geïnspireerde '*selfcare sundays*', in bad gaan en geurkaarsen lij
 
 Eigenlijk wil je niets liever dan mildheid en liefde voor jezelf creëren, maar je weet niet hoe. 
 
-\##Girl, I got you! 
+##Girl, I got you! 
 
 Haal die handen uit je haar, want ik je wil je dolgraag hiermee helpen! 
 

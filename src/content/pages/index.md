@@ -7,7 +7,7 @@ tagline: Ben jij klaar om open te bloeien naar de stralende versie van jezelf?
 featuredImage: /assets/foto-header-website.png
 cta:
   ctaText: Schrijf je hier in voor de gratis masterclass
-  ctaLink: /afspraak
+  ctaLink: /contact
 ---
 # Herken jij dit?
 
