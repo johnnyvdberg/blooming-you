@@ -88,9 +88,9 @@ collections:
               - name: "ctaLink"
                 label: "CTA Link"
                 widget: "string"
-          - label: Further Resources
-            name: furtherResources
-            widget: list
+          - label: "Further Resources"
+            name: "furtherResources"
+            widget: "list"
             collapsed: true
             hint: "Here you can add blocks, Click on 'Add Further Resources'"
             fields:
@@ -98,6 +98,10 @@ collections:
                 name: "title"
                 widget: "string"
                 required: true
+              - widget: "image"
+                name: "featuredImage"
+                label: "Featured Image"
+                required: false
               - label: "Content"
                 name: "content"
                 widget: "string"
@@ -153,7 +157,7 @@ collections:
             label: "Template",
             name: "template",
             widget: "hidden",
-            default: "aanbod-page",
+            default: "boost-page",
           }
           - { label: "Slug", name: "slug", widget: "hidden", default: "/boost" }
           - { label: "Title", name: "title", widget: "string" }

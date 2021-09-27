@@ -22,9 +22,9 @@ import {
 import { FaWordpress, FaVk } from "react-icons/fa"
 
 import Layout from "../components/layout"
-import BlogListHome from "../components/blog-list-home"
 import Seo from "../components/seo"
 import Icons from "../util/socialmedia.json"
+import ContentCard from "../components/content-card"
 
 export const pageQuery = graphql`
   query HomeQuery($id: String!) {
@@ -43,27 +43,15 @@ export const pageQuery = graphql`
           ctaText
           ctaLink
         }
-      }
-    }
-    posts: allMarkdownRemark(
-      sort: { order: DESC, fields: [frontmatter___date] }
-      filter: { frontmatter: { template: { eq: "blog-post" } } }
-      limit: 6
-    ) {
-      edges {
-        node {
-          id
-          excerpt(pruneLength: 250)
-          frontmatter {
-            date(formatString: "MMMM DD, YYYY")
-            slug
+        furtherResources {
             title
+            content
+            contentLink
             featuredImage {
-              childImageSharp {
-                gatsbyImageData(layout: CONSTRAINED, width: 345, height: 260)
-              }
+                childImageSharp {
+                    gatsbyImageData(layout: CONSTRAINED, width: 585, height: 439)
+                }
             }
-          }
         }
       }
     }
@@ -71,7 +59,7 @@ export const pageQuery = graphql`
 `
 
 const HomePage = ({ data }) => {
-  const { markdownRemark, posts } = data // data.markdownRemark holds your post data
+  const { markdownRemark } = data // data.markdownRemark holds your post data
   const { frontmatter, html } = markdownRemark
   const Image = frontmatter.featuredImage
     ? frontmatter.featuredImage.childImageSharp.gatsbyImageData
@@ -193,7 +181,8 @@ const HomePage = ({ data }) => {
         )}
       </div>
     )
-  })
+  });
+  const cBlocks = frontmatter.furtherResources.map(furtherResource => <ContentCard data={furtherResource}/>);
   return (
     <Layout className="page">
       <Seo />
@@ -249,7 +238,9 @@ const HomePage = ({ data }) => {
           variant: "variants.content"
         }}
         dangerouslySetInnerHTML={{ __html: html }}/>
-      <BlogListHome data={posts} />
+      <div class="grids col-1 sm-2 lg-3">
+        {cBlocks}
+      </div>
     </Layout>
   )
 }
