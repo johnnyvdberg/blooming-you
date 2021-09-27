@@ -6,7 +6,7 @@ tagline: Ben jij klaar om open te bloeien naar de stralende versie van jezelf?
   Laat mij je helpen op je reis naar meer selflove en zelfzorg!
 featuredImage: /assets/foto-header-website.png
 cta:
-  ctaText: Plan hier je gratis bloesemgesprek in
+  ctaText: Schrijf je hier in voor de gratis masterclass
   ctaLink: /afspraak
 ---
 # Herken jij dit?
