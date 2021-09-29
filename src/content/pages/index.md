@@ -8,6 +8,10 @@ featuredImage: /assets/foto-header-website.png
 cta:
   ctaText: Schrijf je hier in voor de gratis masterclass
   ctaLink: /boost
+furtherResources:
+  - title: Blog
+    content: Zie hier mijn blogs!
+    contentLink: /blog
 ---
 # Herken jij dit?
 
