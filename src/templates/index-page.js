@@ -47,11 +47,6 @@ export const pageQuery = graphql`
             title
             content
             contentLink
-            featuredImage {
-                childImageSharp {
-                    gatsbyImageData(layout: CONSTRAINED, width: 585, height: 439)
-                }
-            }
         }
       }
     }
