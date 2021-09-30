@@ -1,7 +1,7 @@
 ---
 template: contact-page
 slug: /contact
-title: Neem contact met me op
+title: Neem contact met me op!
 ---
 Wil jij je graag inschrijven? 
 
