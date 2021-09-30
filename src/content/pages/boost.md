@@ -1,7 +1,10 @@
 ---
 template: boost-page
 slug: /boost
-title: "The Selflove Boost "
+title: "The Selflove Boost"
+cta:
+    ctaText: Schrijf je hier in voor de gratis masterclass
+    ctaLink: /contact
 ---
 ##Hét geheim om van jezelf te leren houden 
 

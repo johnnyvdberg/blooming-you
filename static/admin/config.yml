@@ -135,7 +135,18 @@ collections:
           }
           - { label: "Slug", name: "slug", widget: "hidden", default: "/club" }
           - { label: "Title", name: "title", widget: "string" }
+          - label: "CTA"
+            name: "cta"
+            widget: "object"
+            fields:
+              - name: "ctaText"
+                label: "CTA text"
+                widget: "string"
+              - name: "ctaLink"
+                label: "CTA Link"
+                widget: "string"
           - { label: "Body", name: "body", widget: "markdown" }
+
       - label: "Afspraak"
         name: "afspraak"
         file: "src/content/pages/afspraak.md"
@@ -161,6 +172,16 @@ collections:
           }
           - { label: "Slug", name: "slug", widget: "hidden", default: "/boost" }
           - { label: "Title", name: "title", widget: "string" }
+          - label: "CTA"
+            name: "cta"
+            widget: "object"
+            fields:
+              - name: "ctaText"
+                label: "CTA text"
+                widget: "string"
+              - name: "ctaLink"
+                label: "CTA Link"
+                widget: "string"
           - { label: "Body", name: "body", widget: "markdown" }
       - label: "Contact"
         name: "contact"
@@ -178,6 +199,12 @@ collections:
               widget: "hidden",
               default: "/contact",
             }
+          - label: Subject options
+            name: subjects
+            widget: list
+            collapsed: true
+            fields:
+              - { label: "Subject", name: "subject", widget: "string" }
           - { label: "Title", name: "title", widget: "string" }
           - { label: "Body", name: "body", widget: "markdown" }
   - name: settings

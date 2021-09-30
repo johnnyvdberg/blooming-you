@@ -1,5 +1,5 @@
 /** @jsx jsx */
-import { jsx } from 'theme-ui'
+import { jsx, Select } from "theme-ui"
 import { graphql } from "gatsby"
 import { RiSendPlane2Line } from "react-icons/ri"
 
@@ -7,26 +7,30 @@ import Layout from "../components/layout"
 import Seo from "../components/seo"
 
 export const pageQuery = graphql`
-  query ContactQuery($id: String!) {
-    markdownRemark(id: { eq: $id }) {
-      id
-      html
-      excerpt(pruneLength: 140)
-      frontmatter {
-        title
-      }
+    query ContactQuery($id: String!) {
+        markdownRemark(id: { eq: $id }) {
+            id
+            html
+            excerpt(pruneLength: 140)
+            frontmatter {
+                title
+                subjects {
+                    subject
+                }
+            }
+        }
+        site {
+            siteMetadata {
+                title
+            }
+        }
     }
-    site {
-      siteMetadata {
-        title
-      }
-    }
-  }
 `
 
 const Contact = ({ data }) => {
   const { markdownRemark, site } = data // data.markdownRemark holds your post data
   const { frontmatter, html } = markdownRemark
+  const subjectOptions = frontmatter.subjects.map(subject => <option key={subject.subject} value={subject.subject}>{subject.subject}</option>)
 
   return (
     <Layout className="contact-page" sx={contactStyles.contactPage}>
@@ -54,7 +58,7 @@ const Contact = ({ data }) => {
           <input type="hidden" name="form-name" value="contact" />
           <p>
             <label>
-              Name
+              Naam
               <input type="text" name="name" required />
             </label>
           </p>
@@ -64,26 +68,29 @@ const Contact = ({ data }) => {
               <input type="email" name="email" required />
             </label>
           </p>
-          <p>
+          <div>
             <label>
-              Subject
-              <input type="text" name="subject" required />
+              Onderwerp
+              <Select id="subject" name="subject">
+                {subjectOptions}
+              </Select>
             </label>
-          </p>
+          </div>
           <p>
             <label>
-              Message<textarea name="message" required></textarea>
+              Bericht
+              <textarea name="message" required />
             </label>
           </p>
           <p className="text-align-right">
             <button
               className="button"
               sx={{
-                variant: "variants.button",
+                variant: "variants.button"
               }}
               type="submit"
             >
-              Send Message{" "}
+              Versturen{" "}
               <span className="icon -right">
                 <RiSendPlane2Line />
               </span>
@@ -103,13 +110,19 @@ const contactStyles = {
       border: "6px solid",
       borderColor: "inputBorder",
       bg: "inputBackground",
-      outline: "none",
+      outline: "none"
+    },
+    select: {
+      border: "6px solid",
+      borderColor: "inputBorder",
+      bg: "inputBackground",
+      outline: "none"
     },
     textarea: {
       border: "6px solid",
       borderColor: "inputBorder",
       bg: "inputBackground",
-      outline: "none",
-    },
-  },
+      outline: "none"
+    }
+  }
 }

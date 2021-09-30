@@ -2,6 +2,9 @@
 template: club-page
 slug: /club
 title: The Selflove Club
+cta:
+  ctaText: Schrijf je hier in voor de gratis masterclass
+  ctaLink: /contact
 ---
 ## Hét online programma waarin je in 12 weken zelfliefde een centrale plaats in je leven leert geven.
 

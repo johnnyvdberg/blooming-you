@@ -177,7 +177,7 @@ const HomePage = ({ data }) => {
       </div>
     )
   });
-  const cBlocks = frontmatter.furtherResources.map(furtherResource => <ContentCard data={furtherResource}/>);
+  const cBlocks = frontmatter.furtherResources.map(furtherResource => <ContentCard key="{item.title}" data={furtherResource}/>);
   return (
     <Layout className="page">
       <Seo />
@@ -233,7 +233,7 @@ const HomePage = ({ data }) => {
           variant: "variants.content"
         }}
         dangerouslySetInnerHTML={{ __html: html }}/>
-      <div class="grids col-1 sm-2 lg-3">
+      <div className="grids col-1 sm-2 lg-3">
         {cBlocks}
       </div>
     </Layout>
