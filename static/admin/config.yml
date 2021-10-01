@@ -54,7 +54,13 @@ collections:
           required: false,
           tagname: "",
         }
-
+      - {
+          label: "Pinterest Image",
+          name: "pinterestImage",
+          widget: "image",
+          required: false,
+          tagname: "",
+        }
       - {
           label: "Body",
           name: "body",

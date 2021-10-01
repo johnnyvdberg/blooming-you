@@ -1,7 +1,7 @@
 /** @jsx jsx */
 import { jsx } from "theme-ui"
 import { Link, graphql } from "gatsby"
-import { GatsbyImage } from "gatsby-plugin-image"
+import { GatsbyImage, getSrc } from "gatsby-plugin-image"
 import { RiArrowRightLine, RiArrowLeftLine } from "react-icons/ri"
 
 import Layout from "../components/layout"
@@ -71,6 +71,9 @@ const Post = ({ data, pageContext }) => {
   const { markdownRemark } = data // data.markdownRemark holds your post data
   const { frontmatter, html, excerpt } = markdownRemark
 
+  const PinterestImage = frontmatter.pinterestImage
+    ? frontmatter.pinterestImage.childImageSharp.gatsbyImageData
+    : ""
   const Image = frontmatter.featuredImage
     ? frontmatter.featuredImage.childImageSharp.gatsbyImageData
     : ""
@@ -88,7 +91,7 @@ const Post = ({ data, pageContext }) => {
         description={
           frontmatter.description ? frontmatter.description : excerpt
         }
-        image={Image}
+        image={getSrc(PinterestImage)}
         article={true}
       />
       <article className="blog-post">
@@ -138,6 +141,11 @@ export const pageQuery = graphql`
           childImageSharp {
             gatsbyImageData(layout: FULL_WIDTH)
           }
+        }
+        pinterestImage {
+            childImageSharp {
+                gatsbyImageData
+            }
         }
       }
     }

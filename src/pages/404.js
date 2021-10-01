@@ -1,6 +1,6 @@
 import React from "react"
 import { Link } from "gatsby"
-import { RiArrowLeftSLine, RiBugLine, RiSkullLine } from "react-icons/ri"
+import { RiAlarmWarningLine, RiArrowLeftSLine, RiBugLine } from "react-icons/ri"
 
 import Seo from "../components/seo"
 import Layout from "../components/layout"
@@ -15,24 +15,23 @@ const NotFound = () => (
       }}
     >
       <header>
-        <RiSkullLine
+        <RiAlarmWarningLine
           style={{
             fontSize: "128px",
             color: "var(--primary-color)",
           }}
         />
-        <h1>Oops we did not expect that to happen</h1>
+        <h1>Oeps dat had ik niet verwacht</h1>
         <p>
-          Have you wondered into the unknown. Let us help you, Please take a look
-          at below options
+          Dit kan ik niet vinden, klik hieronder om verder te gaan.
         </p>
       </header>
       <Link to="/" className="button">
         <RiArrowLeftSLine className="icon -left" />
-        Back to Homepage
+        Terug
       </Link>
       <Link to="/contact" className="button -outline">
-        Report this <RiBugLine className="icon -right" />
+        Rapporteer <RiBugLine className="icon -right" />
       </Link>
     </div>
   </Layout>
