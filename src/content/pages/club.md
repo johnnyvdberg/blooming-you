@@ -16,15 +16,10 @@ Je geeft jezelf de tijd en ruimte om op zoek te gaan naar meer mildheid voor jez
 ## Kijk jij even samen met mij mee of jij jezelf hierin herkent?
 
 * Je wil liever zijn voor jezelf en beseft ook dat dat je deugd zou doen. **Hoe** je daaraan moet **beginnen**, blijft een onbeantwoorde vraag.
-
 * Je bent er graag voor anderen, maar daardoor durf je **jezelf voorbij lopen**.
-
 * De manier waarop je tegen jezelf praat is harteloos. Je bent **streng**, **breekt jezelf af** wanneer iets niet helemaal loopt zoals je had verwacht.
-
 * Je voelt je regelmatig **moe** en lusteloos. Je **piekert** en dat kost je heel wat energie en/of nachtrust. 
-
 * Je voelt je regelmatig **niet goed genoeg**.
-
 * Je vindt het **lastig** om **tevreden** te zijn met jezelf.
 
 ## Ik kan begrijpen hoe jij je voelt…
@@ -43,15 +38,10 @@ En dat laatste hoop ik ook met jou te bereiken wanneer we samen aan de slag gaan
 ## Hoe zou het voor jou zijn als je
 
 * ...weet hoe je voor **jezelf** kan **zorgen** op een manier die helemaal bij jou en **je levensstijl past**?
-
 * ...**tevreden** bent **met jezelf** en liefde voelt voor de versie die je nu bent?
-
 * ...praat tegen jezelf met **zachtheid en empathie**? Je weet hoe je die innerlijke criticus het hoofd kan bieden. 
-
 * ...**meer energie** ervaart omdat het piekeren plaats heeft gemaakt voor zelfliefde en zelfzorg?
-
 * ... voelt dat jij er net zozeer mag zijn als anderen. Je bent goed genoeg, want jij bent een vat vol **kwaliteiten en talenten**, die jij ook nog eens weet in te zetten in je leven.
-
 * ... de tips en tricks in hoe je beter voor jezelf kan zorgen en milder kan zijn eindelijk zijn effect hebben, omdat ze zijn toegespitst op wie je bent en hoe jouw leven is ingericht?
 
 Ik kan alvast niet voor je wachten dat jij dit ook mag gaan ervaren en doen! 
@@ -80,7 +70,7 @@ Module 5: De sleutel tot mildheid
 
 Module 6: Jij mag er zijn
 
-## Dit krijg jij wanneer je deelneemt aan het programma 
+## Dit krijg jij wanneer je deelneemt aan het programma
 
 Instappen in The Selflove Club vraagt wederzijdse commitment. 
 
@@ -88,32 +78,27 @@ Dit mag jij van mij verwachten wanneer we samen aan de slag gaan:
 
 * De **6 online modules** die jij gespreid van mij ontvangt in je mailbox. 
 
-  Je krijgt hierbij telkens **een werkboek** met verhelderende  
+  Je krijgt hierbij telkens **een werkboek** met verhelderende\
   informatie, inzichten en oefeningen. 
-  Bij elke module hoort ook **een masterclass** die je op elke    
+  Bij elke module hoort ook **een masterclass** die je op elke\
   moment en op je eigen tempo kan volgen 
-
 * Mijn **persoonlijke begeleiding** tijdens de 12 weken. 
-  
-  Tijdens het volledige online programma krijg je toegang tot  
+
+  Tijdens het volledige online programma krijg je toegang tot\
   mijn mailbox. 
   Zo kan je me contacteren om feedback te vragen op de 
   opdrachten. 
-  Ook is er hier ruimte om vragen te stellen of je weerstand       
+  Ook is er hier ruimte om vragen te stellen of je weerstand\
   bij een bepaalde oefening aan te geven. 
+* **3 live** online **reflectiemomenten**. 
 
-* **3 live** online **intervisiemomenten**. 
-  
-  Deze drie momenten zijn vooral bedoeld om even samen te  
-  komen. Zo kan je elkaar steunen in het proces en je reis  
+  Deze drie momenten zijn vooral bedoeld om even samen te\
+  komen. Zo kan je elkaar steunen in het proces en je reis\
   blootleggen. Er is daarnaast ook de ruimte om vragen te 
   stellen. 
-
-* **3 bonussen** die jou verder zullen ondersteunen in je zelfliefdereis.
-
+* 2 **bonussen** die jou verder zullen ondersteunen in je zelfliefdereis.
 
 En dit alles aan de éénmalige prijs van €297 ipv €387. 
 Je kan daarnaast ook in 4 termijnen betalen, aan €75 per termijn. 
-
 
 We gaan van start op 2 november 2021.
