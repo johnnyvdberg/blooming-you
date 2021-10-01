@@ -7,7 +7,7 @@ description: >
   Ik deel met veel plezier drie inzichten die ik zelf opdeed tijdens mijn
   zoektocht naar zelfliefde.  
 featuredImage: /assets/danielle-macinnes-iulgi9pwetu-unsplash.jpg
-pinterestImage: /assets/danielle-macinnes-iulgi9pwetu-unsplash.jpg
+pinterestImage: /assets/blogartikel-1-pin.png
 ---
 Hier is ie dan! Eindelijk mijn allereerste blogartikel.
 
