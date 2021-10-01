@@ -20,6 +20,7 @@ Ik wil je doorheen de artikels laten zien dat het ook anders kan. Dat je jezelf 
 
 Vandaag deel ik met veel plezier drie inzichten die ik zelf opdeed tijdens mijn zoektocht naar zelfliefde.  
 
+
 ### Je zelfliefdereis kent geen einde...
 
 ...… en die gedachte werkt bevrijdend. 
@@ -34,6 +35,7 @@ Er zullen altijd nieuwe dingen zijn die je aan jezelf mag ontdekken.
 Zie zelfliefde daarom ook nooit als een wedstrijd. En vergelijk jezelf ook daarin niet met anderen. 
 
 We zijn allemaal anders, waardoor de reis naar het liefhebben van onszelf op een ander tempo en in een andere richting beweegt.
+
 
 ### Het geloven van je krachten maar nog meer het omarmen van je imperfecties
 
@@ -55,6 +57,7 @@ En daarnaast ook zeker de grootste uitdaging. 
 
 Zoals ik hierboven al zei, ook mijn zelfliefdereis is nog niet af. Elke dag opnieuw is het een evenwicht zoeken in het enerzijds belichten van mijn krachten en mijn imperfecties te kunnen omarmen. 
 
+
 ### Je hoeft niet radicaal het stuur om te gooien.
 
 Integendeel zelfs. Ik weet niet hoe het bij jou zit, maar voor mij heeft het nooit gewerkt om meteen mijn hele leven een andere wending te geven. 
@@ -64,6 +67,7 @@ Wanneer je jezelf nieuwe gewoontes wil aanleren, heeft je brein in de eerste pla
 Je hele leven omgooien is daarom zo een shock-effect dat de kans groot is dat je na een week er alweer helemaal klaar mee bent. 
 
 Daarom is het nuttig om te beginnen met één gewoonte en die een maand vol te houden. Dit geeft je hersenen de tijd om aan die nieuwe routine te wennen en als een patroon te gaan zien. 
+
 
 Met deze inzichten hoop ik jou te inspireren jezelf nog meer lief te hebben. 
 
