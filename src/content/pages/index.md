@@ -9,9 +9,16 @@ cta:
   ctaText: Schrijf je hier in voor de gratis masterclass
   ctaLink: /boost
 furtherResources:
-  - title: Blog
-    content: Zie hier mijn blogs!
+  - title: "Kom eens kijken op mijn blog! "
+    content: "Hier praat ik zonder schaamte over mijn pieken en dalen in mijn
+      zelfliefdereis. Daarnaast geef ik je tips en tricks in hoe je in je in
+      dagelijks leven aan de slag kan gaan met selflove en zelfzorg. "
     contentLink: /blog
+  - title: "Wordt een Blooming Babe door me te volgen op Instagram! "
+    content: "Via mijn Instagram-account deel ik inspirerende inzichten, herkenbare
+      situaties en handvatten om die strenge stem een toontje lager te laten
+      zingen. En zo meer zelfliefde te stimuleren. "
+    contentLink: https://www.instagram.com/bloomingyou.nl/
 ---
 # Herken jij dit?
 
@@ -35,6 +42,6 @@ Die uitputting maakt je al een tijd duidelijk dat er iets moet gaan veranderen. 
 
 … hoe bevrijdend zou het zijn als jij eindelijk tijd en ruimte aan jezelf geeft?Dat je niet meer hoeft te zoeken naar hoe je nee kan zeggen. Dat je je grenzen kan aangeven zonder een schuldgevoel. Je voelt je rustiger en minder gespannen omdat die strenge stem zichzelf heeft ingeruild voor warmte en empathie.
 
-
-
 Dat klinkt toch als een heerlijk, rustgevend vooruitzicht, niet?
+
+## Deze stappen kan jij alvast vandaag zetten:
