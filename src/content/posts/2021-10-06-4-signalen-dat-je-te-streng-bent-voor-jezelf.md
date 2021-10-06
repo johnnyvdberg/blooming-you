@@ -3,8 +3,8 @@ template: blog-post
 title: 4 signalen dat je te streng bent voor jezelf.
 slug: te-streng-voor-jezelf
 date: 2021-10-06 13:46
-description: Heb ik een innerlijke criticus? Spreek ik te kritisch voor mezelf?
-  Met de 4 signalen kom jij te weten of je te streng bent voor jezelf.
+description: Heb ik een innerlijke criticus? Ben ik te kritisch voor mezelf? Met
+  de 4 signalen kom jij te weten of je te streng bent voor jezelf.
 featuredImage: /assets/pexels-alina-vilchenko-3363111.jpg
 pinterestImage: /assets/pin-blog-2-.png
 ---
