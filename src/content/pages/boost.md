@@ -6,13 +6,13 @@ cta:
   ctaText: Schrijf je hier in voor de gratis masterclass
   ctaLink: /contact
 ---
-## Hét geheim om van jezelf te leren houden 
+## Hét geheim om van jezelf te leren houden
 
 Ontdek in de **gratis** webinar op **18 oktober om 19u30** mijn sleutel die ervoor zorgde dat ik liever voor mezelf werd. \
 \
 Met dit geheim in handen maak jij een vliegende start in jouw zelfliefdereis. 
 
-### Herken je dit? 
+### Herken je dit?
 
 Je merkt bij jezelf een hunkering naar meer zachtheid en empathie voor jezelf 
 
@@ -24,7 +24,7 @@ De Pinterest geïnspireerde '*selfcare sundays*', in bad gaan en geurkaarsen lij
 
 Eigenlijk wil je niets liever dan mildheid en liefde voor jezelf creëren, maar je weet niet hoe. 
 
-### Girl, I got you! 
+### Girl, I got you!
 
 Haal die handen uit je haar, want ik je wil je dolgraag hiermee helpen! 
 
@@ -35,3 +35,7 @@ Ik wil jou die jaren van frustraties besparen. Daarom deel ik graag met jou, hel
 Ik beloof je: dit wil je niet missen! 
 
 Plaatsen zijn beperkt, dus schrijf je snel in!
+
+```
+<script src="https://embed.webinargeek.com/assets/embed-frame.js" data-webinar="c8738b6aa730f2ab51f666cc625580a583454d43f652084ccf" type="text/javascript"></script>
+```
