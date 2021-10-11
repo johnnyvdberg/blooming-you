@@ -4,7 +4,7 @@ slug: /boost
 title: The Selflove Boost
 cta:
   ctaText: Schrijf je hier in voor de gratis masterclass
-  ctaLink: /contact
+  ctaLink: https://blooming-you.webinargeek.com/the-selflove-boost
 ---
 ## Hét geheim om van jezelf te leren houden
 
