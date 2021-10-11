@@ -35,7 +35,3 @@ Ik wil jou die jaren van frustraties besparen. Daarom deel ik graag met jou, hel
 Ik beloof je: dit wil je niet missen! 
 
 Plaatsen zijn beperkt, dus schrijf je snel in!
-
-```
-<script src="https://embed.webinargeek.com/assets/embed-frame.js" data-webinar="c8738b6aa730f2ab51f666cc625580a583454d43f652084ccf" type="text/javascript"></script>
-```
