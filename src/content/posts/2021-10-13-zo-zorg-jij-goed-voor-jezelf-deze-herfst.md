@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: "Zo zorg jij goed voor jezelf deze herfst! "
-slug: /50-zelfzorg-herfst-ideeën
+slug: /50-zelfzorg-herfst-ideeen
 date: 2021-10-13 12:30
 description: "Ontdek hier waarom het belangrijk is goed voor jezelf te zorgen
   tijdens de herfst. 50 selfcare ideeën voor deze herfst! "
