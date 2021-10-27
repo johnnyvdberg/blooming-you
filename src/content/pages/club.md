@@ -3,7 +3,7 @@ template: club-page
 slug: /club
 title: The Selflove Club
 cta:
-  ctaText: "Schrijf je hier in om lid te worden van The Selflove Club! "
+  ctaText: "Schrijf je hier in op de wachtlijst van The Selflove Club! "
   ctaLink: /contact
 ---
 ## Hét online programma waarin je in 12 weken zelfliefde een centrale plaats in je leven leert geven.
@@ -98,7 +98,8 @@ Dit mag jij van mij verwachten wanneer we samen aan de slag gaan:
   stellen. 
 * 2 **bonussen** die jou verder zullen ondersteunen in je zelfliefdereis.
 
-En dit alles aan de éénmalige prijs van €297 ipv €387. 
-Je kan daarnaast ook in 4 termijnen betalen, aan €75 per termijn. 
+En dit alles aan de prijs van €387. 
+Je kan daarnaast ook in 4 termijnen betalen, aan €97 per termijn. 
 
-We gaan van start op 2 november 2021.
+De deuren van The Selflove Club zijn gesloten. \
+Schrijf je alvast in op de wachtlijst zodat jij je als eerste kan inschrijven!
