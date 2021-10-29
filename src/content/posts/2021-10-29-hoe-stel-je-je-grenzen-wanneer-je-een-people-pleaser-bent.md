@@ -1,6 +1,6 @@
 ---
 template: blog-post
-title: "Hoe stel je je grenzen wanneer je een 'people pleaser' bent. "
+title: Hoe stel je je grenzen wanneer je een 'people pleaser' bent?
 slug: /grenzen
 date: 2021-10-29 16:05
 description: "Je grenzen stellen wordt door heel wat mensen als iets negatiefs
