@@ -5,7 +5,8 @@ slug: /tijd-vrijmaken-voor-jezelf
 date: 2022-01-14 13:33
 description: "Waarom tijd voor jezelf vrijmaken moeilijk is. Met 4 tips hoe jij
   stappen zet in jezelf een prioriteit maken. "
-pinterestImage: /assets/pexels-saliha-8239819.jpg
+featuredImage: /assets/pexels-poan-studio-5797906.jpg
+pinterestImage: ""
 ---
 Het is vrijdagavond en na een vermoeiende werkweek staat de pauzeknop even aan. Je ploft neer op de bank en daar zit je dan. Genietend van een Netflix-serie gaat het weekend van start. Eindelijk even niets. 
 
