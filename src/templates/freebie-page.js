@@ -8,7 +8,7 @@ import Seo from "../components/seo"
 import { RiArrowRightSLine } from "react-icons/ri"
 
 export const pageQuery = graphql`
-  query ClubQuery($id: String!) {
+  query FreebieQuery($id: String!) {
     markdownRemark(id: { eq: $id }) {
       id
       html
@@ -23,7 +23,7 @@ export const pageQuery = graphql`
     }
   }
 `
-const ClubPage = ({ data }) => {
+const FreebiePage = ({ data }) => {
   const { markdownRemark } = data // data.markdownRemark holds your post data
   const { frontmatter, html, excerpt } = markdownRemark
 
@@ -32,36 +32,12 @@ const ClubPage = ({ data }) => {
       <Seo title={frontmatter.title} description={excerpt} />
       <div className="wrapper">
         <h1>{frontmatter.title}</h1>
-        <Link
-          to={frontmatter.cta.ctaLink}
-          className="button"
-          sx={{
-            variant: "variants.button",
-          }}
-        >
-          {frontmatter.cta.ctaText}
-          <span className="icon -right">
-              <RiArrowRightSLine />
-            </span>
-        </Link>
         <article sx={{
           variant: "variants.content"
         }} dangerouslySetInnerHTML={{ __html: html }} />
-        <Link
-          to={frontmatter.cta.ctaLink}
-          className="button"
-          sx={{
-            variant: "variants.button",
-          }}
-        >
-          {frontmatter.cta.ctaText}
-          <span className="icon -right">
-              <RiArrowRightSLine />
-            </span>
-        </Link>
       </div>
     </Layout>
   )
 }
 
-export default ClubPage
+export default FreebiePage
