@@ -2,9 +2,9 @@
 import { jsx } from "theme-ui"
 import { graphql, Link } from "gatsby"
 import { GatsbyImage } from "gatsby-plugin-image"
-import { RiArrowRightSLine } from "react-icons/ri"
 import {
   RiFacebookBoxFill,
+  RiArrowRightSLine,
   RiTwitterFill,
   RiLinkedinBoxFill,
   RiYoutubeFill,

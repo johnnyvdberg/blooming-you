@@ -11,14 +11,6 @@ const MenuItems = [
     title: "Home",
   },
   {
-    path: "/club",
-    title: "The Selflove Club",
-  },
-  {
-    path: "/boost",
-    title: "Gratis masterclass: The Selflove Boost",
-  },
-  {
     path: "/about",
     title: "Over mij",
   },
