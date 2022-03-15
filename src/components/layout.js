@@ -9,7 +9,6 @@ import Navigation from "./navigation"
 import "../assets/scss/style.scss"
 import Footer from "./footer"
 import Theme from "../components/theme"
-import Search from "../components/search"
 
 const query = graphql`
   query LayoutQuery {
@@ -18,14 +17,11 @@ const query = graphql`
         siteTitle: title
       }
     }
-    siteSearchIndex {
-      index
-    }
   }
 `
 
 const Layout = ({ children, className, props }) => {
-  const { site, siteSearchIndex } = useStaticQuery(query)
+  const { site } = useStaticQuery(query)
   const { siteTitle } = site.siteMetadata
 
   return (
@@ -33,13 +29,9 @@ const Layout = ({ children, className, props }) => {
       <Header>
         <Logo title={siteTitle} />
         <div sx={layoutStyle.nav}>
-          <div sx={{ display: ["flex", "flex", "flex", "none"] }}>
-            <Search searchIndex={siteSearchIndex.index} />
-          </div>
           <Navigation />
         </div>
         <div sx={layoutStyle.appearance}>
-          <Search searchIndex={siteSearchIndex.index} />
           <Theme />
         </div>
       </Header>

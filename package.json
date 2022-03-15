@@ -23,7 +23,6 @@
   "dependencies": {
     "@emotion/react": "^11.8.2",
     "@emotion/styled": "^11.8.1",
-    "@gatsby-contrib/gatsby-plugin-elasticlunr-search": "^3.0.2",
     "@mdx-js/react": "^2.0.0",
     "@theme-ui/color": "^0.13.1",
     "gatsby": "4.1.3",
