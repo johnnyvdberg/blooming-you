@@ -6,8 +6,8 @@ tagline: Ben jij klaar om open te bloeien naar de stralende versie van jezelf?
   Laat mij je helpen op je reis naar meer selflove en zelfzorg!
 featuredImage: /assets/foto-header-website.png
 cta:
-  ctaText: Schrijf je hier in voor de gratis masterclass
-  ctaLink: /boost
+  ctaText: Download hier de gratis Date Jezelf challenge!
+  ctaLink: /assets/Date-jezelf-challenge.pdf
 furtherResources:
   - title: "Kom eens kijken op mijn blog! "
     content: "Hier praat ik zonder schaamte over mijn pieken en dalen in mijn
